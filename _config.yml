@@ -1,31 +1,33 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: blank # the website title (if blank, full name will be used instead)
-[cite_start]first_name: Vaibhav [cite: 63]
-middle_name: 
-[cite_start]last_name: Bajpai [cite: 63]
-contact_note: >
-  +91 93731 85175 [cite: 65]
-  vaibhavkubic@gmail.com [cite: 65]
-description: >
-  Researcher in Mathematics and AI/ML focusing on Automated Theorem Proving 
-  and Graph Neural Networks. Contributor to the ProofBench project, 
-  focusing on benchmarking LLM performance in formal mathematical reasoning.
 
-keywords: >
-  mathematics, automated-theorem-proving, ProofBench, graph-neural-networks, 
-  lean4, machine-learning, formal-verification, LLM-benchmarking
+title: blank
+first_name: Vaibhav
+middle_name: 
+last_name: Bajpai
+contact_note: >
+  +49 1523 7996615
+  vaibhavkubic@gmail.com
+description: >
+  I am a Research Assistant at TU Bergakademie Freiberg (TUBAF). Currently, I 
+  am an active contributor to the ProofBench project, an initiative dedicated 
+  to benchmarking the performance of Large Language Models (LLMs) in generating 
+  and verifying formal mathematical proofs. My primary research interests lie 
+  in Lean 4 and the ProofBench framework. A significant portion of my technical 
+  work involves the Lean 4 ecosystem, where I focus on formalizing mathematical 
+  structures and developing tools to bridge the gap between symbolic logic and 
+  neural search strategies.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-[cite_start]keywords: mathematics, automated-theorem-proving, lean4, artificial-intelligence, machine-learning [cite: 71, 98, 99]
+keywords: mathematics, automated-theorem-proving, lean4, artificial-intelligence, machine-learning
 lang: en
 icon: ⚛️
 
 # Use your actual GitHub Pages URL
-[cite_start]url: https://vbipba.github.io [cite: 65]
-baseurl: /Vaibhav_Bajpai.github.io 
+url: https://vbipba.github.io
+baseurl: /Vaibhav_Bajpai.github.io
 last_updated: true
 back_to_top: true
 
@@ -34,8 +36,8 @@ back_to_top: true
 # -----------------------------------------------------------------------------
 
 scholar:
-  [cite_start]last_name: [Bajpai] [cite: 63]
-  [cite_start]first_name: [Vaibhav, V.] [cite: 63]
+  last_name: [Bajpai]
+  first_name: [Vaibhav, V.]
 
   style: apa
   locale: en
