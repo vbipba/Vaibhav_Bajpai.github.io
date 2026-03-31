@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "vbipba/Vaibhav_Bajpai",
+    "data-repo": "vbipba/Vaibhav_Bajpai.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
