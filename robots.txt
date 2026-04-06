@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://vbipba.github.io /sitemap.xml
+User-agent: * Disallow: Sitemap: https://vbipba.github.io/Vaibhav_Bajpai.github.io/sitemap.xml
